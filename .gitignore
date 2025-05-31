@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# Visual studio
+
+# Jetbrains Clion
+.idea/
+
+# MacOS
+.DS_Store
+
+
