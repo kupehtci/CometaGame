@@ -35,6 +35,7 @@
 
 # Jetbrains Clion
 .idea/
+bin/
 
 # MacOS
 .DS_Store

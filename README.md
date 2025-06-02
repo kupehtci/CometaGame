@@ -1,2 +1,4 @@
-# CometaGame
-Cometa Game is an implementation of a videogame using cometa framework
+# Cometa 
+
+Cometa Framework is a game development framework
+
